@@ -1,6 +1,8 @@
 body{
     background-image: url("Dropscones.jpg");
-    background-repeat: no-repeat;
-    background-position: right top;
-    background-attachment: fixed;
+   /* background-position: right top;*/
+    background-attachment: fixed; width: fit-content;
+    font-family: lobster, monospace;
+
+    
 }
