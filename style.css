@@ -1,8 +1,15 @@
-body{
-    background-image: url("Dropscones.jpg");
-   /* background-position: right top;*/
-    background-attachment: fixed; width: fit-content;
-    font-family: lobster, monospace;
-
-    
+.image-container {
+    display: flex;
+    align-items: center;
 }
+
+.recipe-image {
+    width: 300px;
+    /* Adjust the width as needed */
+    margin-right: 700px;
+    /* Adjust the margin as needed */
+}
+
+.recipe-details {
+    flex: 1;
+}    
